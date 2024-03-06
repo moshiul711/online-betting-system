@@ -1,0 +1,47 @@
+.row{
+    max-width: 1150px;
+    margin: 0 auto;
+}
+
+.sec1{
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.sec1 h3{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.sec1 img{
+    width: 220px;
+    height: 200px;
+    padding: 5px;
+}
+h3:after{
+    width: 300px;
+    height: 3px;
+    background-color: #2b542c;
+    display: block;
+    content: "";
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.text {
+    width: 70%;
+    margin-left: 15%;
+    text-align: justify;
+    margin-bottom: 15px;
+}
+.text2{
+    text-align: justify;
+}
+
+.design p{
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+
+img{
+    height:157px ;
+    width: 321px;
+}
